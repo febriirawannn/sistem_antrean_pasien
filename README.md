@@ -1,8 +1,8 @@
-# Sistem Antrean Klinik
+# Sistem Antrean Pasien
 
 ## Deskripsi
 
-Sistem Antrean Klinik adalah aplikasi berbasis web yang dibuat menggunakan Python dan Streamlit untuk membantu pengelolaan antrean pasien di klinik.
+Sistem Antrean Pasien adalah aplikasi berbasis web yang dibuat menggunakan Python dan Streamlit untuk membantu pengelolaan antrean pasien di klinik.
 
 Aplikasi ini menerapkan struktur data Queue (deque) dengan konsep FIFO (First In First Out) serta mendukung prioritas pasien darurat.
 
